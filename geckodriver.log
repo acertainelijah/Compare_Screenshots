@@ -1,0 +1,95 @@
+1547580064052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.EW7JT8vAyZD6"
+1547580064960	Marionette	INFO	Listening on port 2828
+2019-01-15 11:21:06.681 plugin-container[17324:627474] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547580153616	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.vU497Ems0hg6"
+1547580154274	Marionette	INFO	Listening on port 2828
+2019-01-15 11:22:35.724 plugin-container[17347:628864] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 17347] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+[Child 17347] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1547580183836	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.8WPlapBJCs6z"
+1547580184500	Marionette	INFO	Listening on port 2828
+2019-01-15 11:23:05.974 plugin-container[17365:629887] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17365] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+[Child 17365] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1547580232863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.ESvm7GdQonqU"
+1547580233533	Marionette	INFO	Listening on port 2828
+2019-01-15 11:23:54.977 plugin-container[17382:631148] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 17382] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+[Child 17382] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1547580249778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.fPniphC4gZWX"
+1547580250442	Marionette	INFO	Listening on port 2828
+2019-01-15 11:24:11.928 plugin-container[17389:631914] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[Child 17389] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+[Child 17389] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-esr52-m64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1547580390844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.oRAyHpqNX2hh"
+1547580391503	Marionette	INFO	Listening on port 2828
+2019-01-15 11:26:32.940 plugin-container[17430:634510] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-15 11:26:44.404 plugin-container[17436:634755] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547580430938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.wFfWIAtjKKQ4"
+1547580431602	Marionette	INFO	Listening on port 2828
+2019-01-15 11:27:13.098 plugin-container[17451:635452] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547580613444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.9Y97BpvFh78B"
+1547580614105	Marionette	INFO	Listening on port 2828
+2019-01-15 11:30:15.625 plugin-container[17490:637975] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547580793826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.dZh2Ci0tJkPK"
+1547580794493	Marionette	INFO	Listening on port 2828
+2019-01-15 11:33:15.952 plugin-container[17537:640602] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547589401043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.PsPUxtoraSk6"
+1547589401893	Marionette	INFO	Listening on port 2828
+2019-01-15 13:56:43.485 plugin-container[19185:708979] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547589795419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.CbhZPgL6qDay"
+1547589798589	Marionette	INFO	Listening on port 2828
+2019-01-15 14:03:25.689 plugin-container[19429:715765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547590216178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.eKEp2XJG9hoS"
+1547590219181	Marionette	INFO	Listening on port 2828
+2019-01-15 14:10:26.317 plugin-container[19570:721838] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547597828863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.TpfHdlhM4khz"
+1547597829785	Marionette	INFO	Listening on port 2828
+2019-01-15 16:17:11.541 plugin-container[21687:805268] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x723b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547750531656	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.zeTO34YEBmxF"
+1547750532656	Marionette	INFO	Listening on port 2828
+2019-01-17 10:42:14.398 plugin-container[26698:980312] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2019-01-17 10:42:39.985 firefox-bin[26701:980651] Unable to install helper!
+2019-01-17 10:42:47.132 plugin-container[26711:981126] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1547751255723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.2o9I5vBkYxnS"
+1547751257946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547751257946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547751264758	Marionette	INFO	Listening on port 63627
+1547751264844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1547751278981	Marionette	INFO	Stopped listening on port 63627
+1547752765740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/7x/r5dyy_r50jx37x32h_xxkzd8zq0nqv/T/rust_mozprofile.RmPeVtbAVB2I"
+1547752766159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1547752766159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1547752767548	Marionette	INFO	Listening on port 59770
+1547752767592	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27421, Chrome_ChildThread] WARNING: pipe error: Socket is not connected: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 736
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
